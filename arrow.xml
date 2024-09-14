@@ -186,7 +186,7 @@
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="arrow-f" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="arrow" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="arrow" />
-  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="arrow" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="arrow-f" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="arrow" />
 
   <!-- prebuilt repos -->
@@ -206,7 +206,7 @@
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="arrow" />
   <project path="system/security" name="android_system_security" remote="arrow" />
   <project path="system/libhidl" name="android_system_libhidl" remote="arrow" />
-  <project path="system/sepolicy" name="android_system_sepolicy" remote="arrow" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="arrow-f" />
   <project path="system/update_engine" name="android_system_update_engine" remote="arrow" />
   <project path="system/vold" name="android_system_vold" remote="arrow" />
 
