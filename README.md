@@ -1,9 +1,10 @@
 <img src="https://github.com/ArrowOS/getting_started/blob/master/misc/logo.png?raw=true">
 
-# ArrowOS
+# ArrowOS (EXPERIMENTAL BRANCH)
 
  Getting Started
 ---------------
+**NOTE: THIS BRANCH IS EXPERIMENTAL, use arrow-13.1 branch for buildable source.**
 To get started with the ArrowOS sources, you'll need to get
 familiar with [Git and Repo](https://source.android.com/setup/build/downloading).
 
