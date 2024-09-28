@@ -20,6 +20,17 @@ Then sync up:
 repo sync
 ```
 
+Add-Ons
+-------------------
+Before building the system, add this prop to your device system.prop.
+
+```bash
+# Hardware Description
+ro.device.chipset=your_chipset
+ro.device.display_resolution=your_display_spec
+ro.device.colorbody_phone=your_phone_colors
+```
+
 Building the System
 -------------------
  Initialize the ROM environment with the envsetup.sh script.
