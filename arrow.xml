@@ -52,7 +52,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" remote="arrow" />
 
   <!-- device repos -->
-  <project path="device/arrow/sepolicy" name="android_device_arrow_sepolicy" remote="arrow" />
+  <project path="device/arrow/sepolicy" name="android_device_arrow_sepolicy" remote="arrow-f" />
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="arrow" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="arrow" />
   <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr" remote="arrow" />
