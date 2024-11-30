@@ -1198,6 +1198,7 @@
 
   <!-- ArrowOS changes -->
   <include name="remove.xml" />
+  <include name="lineage.xml" />
   <include name="arrow.xml" />
 
 </manifest>
